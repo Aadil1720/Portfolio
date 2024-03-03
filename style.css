@@ -726,6 +726,10 @@ h3 a{
 
 
 @media only screen and (max-width:1024px){
+    nav {
+        height: 60px; 
+        line-height: 60px; 
+    }
     .featured-text{
         padding:0;
     }
